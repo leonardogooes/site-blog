@@ -1,0 +1,58 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#titulo-1 {
+    margin-left: 20px;
+}
+#titulo-2 {
+    font-size: 35px;
+    text-align: center;
+}
+#paragrafo-center {
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#titulo-2top {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+#image-impressora, #impressora-1, #impressora-2 {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#titulo-3top {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+#image-hull, #imagem-chuck-hull {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image-scott, #imagem-scott-crump {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list, #item-list {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+}
+.list-top, #item-list-top {
+    margin-top: 100px; 
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+}
+#logo-site {
+    width: 150px;
+    height: 150px;
+}
